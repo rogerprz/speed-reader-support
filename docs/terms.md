@@ -14,6 +14,7 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 *   [RevenueCat](https://www.revenuecat.com/terms)
+*   [Supabase](https://supabase.com/terms)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
