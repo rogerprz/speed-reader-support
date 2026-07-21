@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 This privacy policy applies to the Speed Reader app (hereby referred to as "Application") for mobile devices that was created by Summer Cypress Ventures LLC (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
@@ -10,6 +10,10 @@ The Application collects information when you download and use it. This informat
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
+*   Account information, including your name and email address, collected when you sign in (e.g. via Google Sign-In or email/password)
+*   Purchase and subscription information, including your purchase history and entitlement status, managed via RevenueCat
+*   Usage data, including app opens, book imports, reading session activity, and paywall views
+*   Crash logs and diagnostic data, collected to help us identify and fix bugs
 *   Reading Data (Pro users): For subscribers with cloud sync enabled, your book library, reading progress, and reading history may be stored on our servers to sync across your devices. This data is associated with your account and stored securely via Supabase. You can delete this data by deleting your account.
 
 The Application does not gather precise information about the location of your mobile device.
@@ -22,19 +26,22 @@ For a better experience, while using the Application, the Service Provider may r
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+*   [Google Sign-In](https://policies.google.com/privacy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
+*   [Sentry](https://sentry.io/privacy/)
 *   [Supabase](https://supabase.com/privacy)
+
+These third-party services may collect data such as your name, email address, user or device identifiers, purchase history, usage activity, and crash/diagnostic data as described above, associated with your account, in order to provide authentication, subscription management, error monitoring, and data sync functionality within the Application.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
 *   as required by law, such as to comply with a subpoena, or similar legal process;
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+None of the above third parties are used for third-party advertising, and the Service Provider does not share your information with data brokers.
 
 **Opt-Out Rights**
 
@@ -58,7 +65,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-04-19
+This privacy policy is effective as of 2026-07-20
 
 **Your Consent**
 
