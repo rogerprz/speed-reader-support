@@ -1,4 +1,4 @@
-# Speed reading app
+# Nimbus Reader
 
 
 ## Support
