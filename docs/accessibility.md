@@ -1,6 +1,6 @@
 # Accessibility
 
-Speed Reader is built with SwiftUI on Apple platforms, which gives us a lot of accessibility support out of the box, and we're actively improving on top of that.
+Nimbus Reader is built with SwiftUI on Apple platforms, which gives us a lot of accessibility support out of the box, and we're actively improving on top of that.
 
 ## What we support today
 
@@ -14,7 +14,7 @@ Accessibility coverage isn't complete across every screen yet — some areas of 
 
 ## Something not working for you?
 
-If you rely on an assistive technology and hit a screen or flow that doesn't work well, please [open an issue](https://github.com/rogerprz/speed-reader-support/issues/new) in this repo, or email [summercypressventures@gmail.com](mailto:summercypressventures@gmail.com). Include:
+If you rely on an assistive technology and hit a screen or flow that doesn't work well, please [open an issue](https://github.com/rogerprz/nimbus-reader-support/issues/new) in this repo, or email [summercypressventures@gmail.com](mailto:summercypressventures@gmail.com). Include:
 
 - The assistive technology you're using (e.g. VoiceOver, Switch Control, Voice Control)
 - The screen or feature affected
@@ -24,4 +24,4 @@ We'll add it to the backlog and prioritize fixes.
 
 ## Requesting additional support
 
-More generally — if there's any accessibility feature, ebook format, or app behavior you need that isn't currently supported, [open an issue](https://github.com/rogerprz/speed-reader-support/issues/new) describing your use case and we'll add it to our backlog for consideration.
+More generally — if there's any accessibility feature, ebook format, or app behavior you need that isn't currently supported, [open an issue](https://github.com/rogerprz/nimbus-reader-support/issues/new) describing your use case and we'll add it to our backlog for consideration.
